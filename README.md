@@ -13,4 +13,4 @@
 
  # some snippets of the output:
 
- ![Image][frontend/images/image.png]
+ ![Image](frontend/images/image.png)
