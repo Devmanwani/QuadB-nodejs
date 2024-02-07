@@ -1,6 +1,6 @@
-#ReadME file
+# ReadME file
 
-#NodeJS Assignment
+# NodeJS Assignment
 - clone the repo locally
 - go to the backend file
 
